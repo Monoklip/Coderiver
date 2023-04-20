@@ -47,3 +47,21 @@
         }
     }
 }
+
+@media screen and (max-width: 800px) {
+    .header {
+        display: grid;
+        grid-template-columns: 1fr;
+        position: relative;
+
+        .header-menu{
+            width: 100%;
+        }
+
+        .header-icon{
+            position: absolute;
+            right: 0;
+            top: -35px;
+        }
+    }
+}
