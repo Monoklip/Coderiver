@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Coderiver/static/css/main.770f7274.css",
+    "main.css": "/Coderiver/static/css/main.09b1a598.css",
     "main.js": "/Coderiver/static/js/main.ff953c18.js",
     "static/media/face6.png": "/Coderiver/static/media/face6.e406d59d3a7ac054f868.png",
     "static/media/face5.jpg": "/Coderiver/static/media/face5.9c7a1857f730e291491a.jpg",
@@ -10,11 +10,11 @@
     "static/media/face1.jpg": "/Coderiver/static/media/face1.1df2da01ff145e9cd67d.jpg",
     "static/media/Vector 1.png": "/Coderiver/static/media/Vector 1.96e879a7c91814ea0559.png",
     "index.html": "/Coderiver/index.html",
-    "main.770f7274.css.map": "/Coderiver/static/css/main.770f7274.css.map",
+    "main.09b1a598.css.map": "/Coderiver/static/css/main.09b1a598.css.map",
     "main.ff953c18.js.map": "/Coderiver/static/js/main.ff953c18.js.map"
   },
   "entrypoints": [
-    "static/css/main.770f7274.css",
+    "static/css/main.09b1a598.css",
     "static/js/main.ff953c18.js"
   ]
 }
